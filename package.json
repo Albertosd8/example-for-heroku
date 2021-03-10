@@ -1,0 +1,25 @@
+{
+  "name": "example-for-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albertosd8/example-for-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albertosd8/example-for-heroku/issues"
+  },
+  "homepage": "https://github.com/Albertosd8/example-for-heroku#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.10.0",
+    "nodemon": "^2.0.7"
+  }
+}
